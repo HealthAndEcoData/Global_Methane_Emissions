@@ -76,3 +76,21 @@ The .pbix file is private and available only upon request for interview purposes
 
 No commercial use or redistribution of the dashboard file is permitted.
 
+---
+
+## 🤝 Acknowledgments 
+
+This portfolio makes use of publicly available datasets provided by:
+
+- **United Nations Environment Programme (UNEP)**  
+  Data Source: *unep_methane_data_topemitter_sources* (January–May 2026).  
+  © United Nations Environment Programme. Data released under open data principles.  
+  Citation: *United Nations Environment Programme. International Methane Emissions Observatory (IMEO) – Eye on Methane dataset. Nairobi: UNEP; 2026.*
+
+The datasets are used solely for educational and portfolio purposes. All rights of raw data set remain with UNEP.
+
+
+
+
+
+
